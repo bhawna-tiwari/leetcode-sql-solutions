@@ -1,1 +1,1 @@
-# Medium Sql Problems
+# Hard Sql Problems
